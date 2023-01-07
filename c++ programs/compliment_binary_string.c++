@@ -1,5 +1,6 @@
 // a simple program to convert a binary string of 0 and 1 to 1 and 0 with the use of class , methods , properties and nesting of methods how to access the private method
 
+// updated
 #include <iostream>
 #include <string>
 using namespace std;
